@@ -3,12 +3,15 @@
 
 !.gitattributes
 !.gitignore
+!.gitlab-ci.yml
 !README.md
+
+!.gitlab/
+!.gitlab/sast-ruleset.toml
+
 !License/
 !License/LICENSE.md
 !License/NOTICE.md
 
 
 # particular repository ignores:
-
-!Example.txt
